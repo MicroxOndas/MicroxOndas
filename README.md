@@ -14,14 +14,16 @@ I am currently a student of Computer Science at [Universidad de Alcalá](https:/
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"><b> My GitHub stats</b>
 
-<p>
+<a href="https://github.com/MicroxOndas">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=MicroxOndas&show_icons=true&hide=contribs,prs&theme=github_dark" />
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroxOndas&layout=compact&theme=github_dark" />
-</p>
+</a>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlieTA1aGFtbmtkaW40bnVta3RrY3dkZjlkNDVqeHZrODhyZG1ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width ="25">  Checkout some of my public repos!
 
-<p>
-  <img height=160 align="center" href="https://github.com/MicroxOndas/RSA_rust_implementation" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=RSA_rust_implementation&layout=compact&theme=github_dark" />
-  <img height=160 align="center" href="https://github.com/MicroxOndas/Tic-Tac-Toe" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=Tic-Tac-Toe&layout=compact&theme=github_dark" />
-</p>
+<a href="https://github.com/MicroxOndas/RSA_rust_implementation">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=RSA_rust_implementation&layout=compact&theme=github_dark" />
+</a>
+<a href="https://github.com/MicroxOndas/Tic-Tac-Toe">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=Tic-Tac-Toe&layout=compact&theme=github_dark" />
+</a>
