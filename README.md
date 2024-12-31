@@ -20,7 +20,9 @@ I am currently a student of Computer Science at [Universidad de Alcalá](https:/
 </a>
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlieTA1aGFtbmtkaW40bnVta3RrY3dkZjlkNDVqeHZrODhyZG1ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width ="25">  Checkout some of my public repos!
-
+<a href="https://github.com/MicroxOndas/SHA">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=SHA&layout=compact&theme=github_dark" />
+</a>
 <a href="https://github.com/MicroxOndas/RSA_rust_implementation">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=RSA_rust_implementation&layout=compact&theme=github_dark" />
 </a>
