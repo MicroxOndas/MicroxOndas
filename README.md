@@ -23,8 +23,8 @@ I am currently a student of Computer Science at [Universidad de Alcalá](https:/
 <a href="https://github.com/MicroxOndas/SHA">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=SHA&layout=compact&theme=github_dark" />
 </a>
-<a href="https://github.com/MicroxOndas/RSA_rust_implementation">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=RSA_rust_implementation&layout=compact&theme=github_dark" />
+<a href="https://github.com/MicroxOndas/RSA">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=RSA&layout=compact&theme=github_dark" />
 </a>
 <a href="https://github.com/MicroxOndas/Tic-Tac-Toe">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MicroxOndas&repo=Tic-Tac-Toe&layout=compact&theme=github_dark" />
