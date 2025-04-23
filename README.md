@@ -3,7 +3,7 @@
 **`Full-time learner`**
 
 ## ⭐About me
-I am currently a student of Computer Science at [Universidad de Alcalá](https://uah.es/) with a lot of interest in coding web-based applications and also low-level computer-engineering.
+I am currently a student of Computer Engineering at [Universidad de Alcalá](https://uah.es/) with a lot of interest in coding web-based applications and also low-level computer-engineering.
 
 #
 
