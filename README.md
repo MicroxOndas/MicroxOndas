@@ -3,7 +3,7 @@
 **`Full-time learner`**
 
 ## ⭐About me
-I am currently a student of Computer Engineering at [Universidad de Alcalá](https://uah.es/) with a lot of interest in coding web-based applications and also low-level computer-engineering.
+I am currently a student of Computer Engineering at [Universidad de Alcalá](https://uah.es/) with a lot of interest in coding embedded systems, low-level computer-engineering, Quantum Computation and also web-based applications.
 
 #
 
@@ -14,9 +14,8 @@ I am currently a student of Computer Engineering at [Universidad de Alcalá](htt
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"><b> My GitHub stats</b>
 
-<a href="https://github.com/MicroxOndas">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=MicroxOndas&show_icons=true&hide=contribs,prs&theme=github_dark" />
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroxOndas&layout=compact&theme=github_dark" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=MicroxOndas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MicroxOndas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicroxOndas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlieTA1aGFtbmtkaW40bnVta3RrY3dkZjlkNDVqeHZrODhyZG1ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width ="25">  Checkout some of my public repos!
